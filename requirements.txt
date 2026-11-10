@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 
+=======
+fastapi
+uvicorn[standard]
+pydantic
+joblib
+pandas
+scikit-learn
+>>>>>>> Stashed changes
